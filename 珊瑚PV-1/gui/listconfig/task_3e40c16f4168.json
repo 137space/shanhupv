@@ -1,0 +1,12 @@
+{
+    "任务名": "zhanlianyc.com",
+    "url链接-u": "zhanlianyc.com",
+    "ip代理文件": "C:/Users/Su/Desktop/珊瑚PV/proxy_http.txt",
+    "ip代理类型": "http",
+    "ua代理文件": "C:/Users/Su/Desktop/珊瑚PV/proxy_ua.json",
+    "线程数-t": 1,
+    "访问时间-s": 10,
+    "刷新次数-r": 3,
+    "点击a标签次数-a": 1,
+    "指令": "-u zhanlianyc.com -t 1 -s 10 -r 3 -a 1 --http=C:/Users/Su/Desktop/珊瑚PV/proxy_http.txt --ua=C:/Users/Su/Desktop/珊瑚PV/proxy_ua.json"
+}

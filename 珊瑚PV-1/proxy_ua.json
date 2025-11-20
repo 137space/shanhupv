@@ -1,0 +1,310 @@
+{
+    "user_agents": [
+        {
+            "device": "iPhone 15 Pro",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 15",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 14 Pro Max",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 14 Plus",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 14 Pro",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 14",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 13 Pro Max",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.5 Mobile/19F77 Safari/537.36"
+        },
+        {
+            "device": "iPhone 13 Mini",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.5 Mobile/19F77 Safari/537.36"
+        },
+        {
+            "device": "iPhone 13",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.5 Mobile/19F77 Safari/537.36"
+        },
+        {
+            "device": "iPhone 12 Pro Max",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.6 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 12 Mini",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.6 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 12 Pro",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.6 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 12",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.6 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone SE (3rd generation)",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.5 Mobile/19F77 Safari/537.36"
+        },
+        {
+            "device": "iPhone SE (2nd generation)",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.5 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 11 Pro Max",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.5 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 11 Pro",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.5 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 11",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.5 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone XR",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.5 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone XS Max",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.3 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone XS",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.3 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone X",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.3 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 8 Plus",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.4 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "iPhone 8",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.4 Mobile/15E148 Safari/537.36"
+        },
+        {
+            "device": "Galaxy S25 Ultra",
+            "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S25+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S25",
+            "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S24 Ultra",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S24+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S24",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S23 Ultra",
+            "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S23+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S23",
+            "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S22 Ultra",
+            "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S22+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S22",
+            "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G916B) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S21 Ultra",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S21+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S21",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S20 Ultra",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S20+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S20",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S10+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Version/9.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S10",
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Version/9.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S9+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.0; SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) Version/8.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S9",
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Version/8.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S8+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G955F) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy S8",
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy Note 20 Ultra",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy Note 20",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-N980F) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy Note 10+",
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-N975F) AppleWebKit/537.36 (KHTML, like Gecko) Version/9.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy Note 10",
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-N970F) AppleWebKit/537.36 (KHTML, like Gecko) Version/9.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy Note 9",
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.1; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Version/8.1 Mobile Safari/537.36"
+        },
+        {
+            "device": "Galaxy Note 8",
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.1; SM-N950F) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.1 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P60 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; VIE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P60",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; VIE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/13.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P50 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 11; ELS-N29) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P50",
+            "user_agent": "Mozilla/5.0 (Linux; Android 11; ELS-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P40 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; ELE-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P40",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P30 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/9.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P30",
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; LIO-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/9.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P20 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.1; CLT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/8.1 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P20",
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.1; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/8.1 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P10 Plus",
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; VKY-L29) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P10",
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; VKY-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P9 Plus",
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; VIE-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P9",
+            "user_agent": "Mozilla/5.0 (Linux; Android 6.0; VIE-L09) AppleWebKit/537.36 (KHTML, like Gecko) Version/6.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei P8",
+            "user_agent": "Mozilla/5.0 (Linux; Android 5.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei Meta 60 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 12; META-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei Meta 60",
+            "user_agent": "Mozilla/5.0 (Linux; Android 12; META-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/12.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei Meta 50 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 11; META-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei Meta 50",
+            "user_agent": "Mozilla/5.0 (Linux; Android 11; META-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/11.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei Meta 40 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; META-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei Meta 40",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; META-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/10.0 Mobile Safari/537.36"
+        },
+        {
+            "device": "Huawei Meta 30 Pro",
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; META-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/9.0 Mobile Safari/537.36"
+        }
+
+    ]
+
+}

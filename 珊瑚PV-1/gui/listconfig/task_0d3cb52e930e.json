@@ -1,0 +1,12 @@
+{
+    "任务名": "ShanHuPV Web",
+    "url链接-u": "47.116.176.195",
+    "ip代理文件": "C:/Users/Administrator/Desktop/珊瑚PV/proxy_http.txt",
+    "ip代理类型": "http",
+    "ua代理文件": "C:/Users/Administrator/Desktop/珊瑚PV/proxy_ua.json",
+    "线程数-t": 10,
+    "访问时间-s": 180,
+    "刷新次数-r": 5,
+    "点击a标签次数-a": 6,
+    "指令": "-u 47.116.176.195 -t 10 -s 180 -r 5 -a 6 --http=C:/Users/Administrator/Desktop/珊瑚PV/proxy_http.txt --ua=C:/Users/Administrator/Desktop/珊瑚PV/proxy_ua.json"
+}
