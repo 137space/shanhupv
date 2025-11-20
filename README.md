@@ -1,4 +1,6 @@
 # 珊瑚PV — 网站访问行为自动化测试工具
+<img width="2067" height="645" alt="image" src="https://github.com/user-attachments/assets/b7d1f459-f468-4bb9-84d8-a089f3bf5e86" />
+<img width="1796" height="1168" alt="image" src="https://github.com/user-attachments/assets/0d8003bf-f7ed-4242-bc6c-922b67245d02" />
 
 > ⚠ **重要声明：本项目仅用于技术研究、自动化测试、自有网站的数据统计验证。  
 请务必只在你拥有或已获得授权的网站上使用本工具。  
